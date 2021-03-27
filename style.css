@@ -1,0 +1,19 @@
+body {
+    background: orange;
+    text-align: center;
+}
+
+.pics {
+    display: flex;
+}
+
+.images {
+    height: 375;
+    width: 500;
+    margin-left: 80;
+    margin-right: 25;
+}
+
+.text {
+    color: aqua;
+}
